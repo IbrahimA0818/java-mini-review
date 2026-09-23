@@ -49,8 +49,9 @@ public class Practice {
         // TODO: Delete the dummy return statement and implement this method here!
         if (a * 2 >= b) {
             return false;
+        }else{
+            return true;
         }
-        return true;
     }
 
 
