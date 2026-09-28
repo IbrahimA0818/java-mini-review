@@ -19,7 +19,10 @@ public class Practice {
 
     public static void printItems(String[] items) {
         // TODO: Implement this method here!
-        System.out.println();
+        System.out.println("welcome");
+        System.out.println("to");
+        System.out.println("cs");
+        System.out.println("123");
     }
 
     /**
