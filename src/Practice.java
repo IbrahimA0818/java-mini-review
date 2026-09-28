@@ -19,7 +19,7 @@ public class Practice {
 
     public static void printItems(String[] items) {
         // TODO: Implement this method here!
-        System.out.println(items);
+        System.out.println();
     }
 
     /**
@@ -47,11 +47,7 @@ public class Practice {
      */
     public static boolean moreThanDouble(int a, int b) {
         // TODO: Delete the dummy return statement and implement this method here!
-        if (a * 2 >= b) {
-            return false;
-        }else{
-            return true;
-        }
+        return a > 2 * b;
     }
 
 
